@@ -22,6 +22,7 @@ import { HeaderComponent } from './components/header/header.component';
       background-color: #f4f4f4;
       border-radius: 5px;
     }
+      
   `]
 })
 export class AppComponent {
